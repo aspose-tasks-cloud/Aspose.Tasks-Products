@@ -6,7 +6,7 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="Microsoft Project File Processing Solutions" h2="Cloud REST SDKs & On premise APIs to build cloud-based, web & desktop apps to process & manipulate Microsoft Project documents." logoImageSrc="https://www.aspose.cloud/templates/brand/images/tasks/aspose_tasks-brand.png" imageAlt="Aspose.Tasks Product Family" >}}
+{{< blocks/products/pf/family-upper-banner h1="Microsoft Project File Processing Solutions" h2="Cloud REST SDKs & On premise APIs to build cloud-based, web & desktop apps to process & manipulate Microsoft Project documents." logoImageSrc="/headers/aspose_tasks-brand.png" imageAlt="Aspose.Tasks Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Tasks Cloud APIs Include" >}}
@@ -23,7 +23,7 @@ Perform Microsoft Project task management in your C# & .NET cloud-based Apps via
 Integrate Microsoft Project task management & processing capabilities into your PHP cloud Apps.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/tasks/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/tasks/family" innerText="View All Cloud APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
