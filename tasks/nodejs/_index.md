@@ -327,17 +327,15 @@ url: /nodejs
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Tasks" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/tasks/curl" imgSrc="/sdk/aspose_tasks-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/curl/" imgSrc="/sdk/aspose_tasks-for-curl.png" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/tasks/net" imgSrc="/sdk/aspose_tasks-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/net/" imgSrc="/sdk/aspose_tasks-for-net.png" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/tasks/php" imgSrc="/sdk/aspose_tasks-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/php/" imgSrc="/sdk/aspose_tasks-for-php.png" platform="PHP" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/tasks/python" imgSrc="/sdk/aspose_tasks-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/python/" imgSrc="/sdk/aspose_tasks-for-python.png" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/tasks/ruby" imgSrc="/sdk/aspose_tasks-for-ruby.png" platform="Ruby" >}}
-	
-	{{< blocks/products/pf/offers-section-item link="/tasks/go" imgSrc="/sdk/aspose_tasks-for-go.png" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/tasks/go/" imgSrc="/sdk/aspose_tasks-for-go.png" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

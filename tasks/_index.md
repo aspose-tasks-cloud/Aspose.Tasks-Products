@@ -23,7 +23,7 @@ Perform Microsoft Project task management in your C# & .NET cloud-based Apps via
 Integrate Microsoft Project task management & processing capabilities into your PHP cloud Apps.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="/tasks/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/tasks/family/" innerText="View All Cloud APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
