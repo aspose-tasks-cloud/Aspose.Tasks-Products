@@ -341,7 +341,6 @@ print_r($result);
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.cloud/c/tasks" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.cloud" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/tasks/" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Tasks Blog" href="https://blog.aspose.cloud/category/tasks/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Tasks Cloud for phPHP?" tabId="success-stories" >}}
@@ -361,6 +360,7 @@ print_r($result);
     {{< blocks/products/pf/offers-section-item link="/tasks/php/" imgSrc="/sdk/aspose_tasks-for-php.png" platform="PHP" >}}
 	
     {{< blocks/products/pf/offers-section-item link="/tasks/python/" imgSrc="/sdk/aspose_tasks-for-python.png" platform="Python" >}}
+{{< blocks/products/pf/offers-section-item link="/tasks/nodejs/" imgSrc="/sdk/aspose_tasks-for-node.png" platform="Node.js" >}}
 	
 	{{< blocks/products/pf/offers-section-item link="/tasks/go/" imgSrc="/sdk/aspose_tasks-for-go.png" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}

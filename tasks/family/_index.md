@@ -27,7 +27,7 @@ Create & manage MS Project tasks in the cloud using PHP cloud SDK via REST API.
 Develop Python applications to create, edit & convert MS Project & Primavera docs in the cloud via REST APIs.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.Tasks" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_tasks-for-node.png" productLink="/tasks/python/" >}}
+{{< blocks/products/pf/product pfName=" Aspose.Tasks" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_tasks-for-node.png" productLink="/tasks/nodejs/" >}}
 Enable your Node.js cloud-based apps to create, modify & convert MS Project documents.
 {{< /blocks/products/pf/product >}}
 
@@ -49,7 +49,6 @@ Get the power to Generate, Modify, Process or Convert to MS Project documents vi
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.cloud/c/tasks" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.cloud" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/tasks/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/tasks/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

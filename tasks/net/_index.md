@@ -10,7 +10,7 @@ url: /net
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="Cloud .NET SDK" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_tasks-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/tasks" directDownloadLink="https://github.com/aspose-tasks-cloud/aspose-tasks-cloud-net" liveDemosLink="https://products.aspose.app/tasks/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_tasks-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/tasks" directDownloadLink="https://github.com/aspose-tasks-cloud/aspose-tasks-cloud-dotnet" liveDemosLink="https://products.aspose.app/tasks/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Using Aspose.Tasks Cloud .NET SDK, you can enable your end-users to fetch project-related files of Microsoft Project or Primavera P6 formats from the cloud storage and process them within your .NET applications without installing any third-party software. This provides you more freedom to make a quality cloud application in a short time.</p>
@@ -348,7 +348,7 @@ var postResponse = TasksApi.PostTask(new PostTaskRequest
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/tasks" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tasks-cloud/aspose-tasks-cloud-net" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tasks-cloud/aspose-tasks-cloud-dotnet" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/tasks/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -357,10 +357,9 @@ var postResponse = TasksApi.PostTask(new PostTaskRequest
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.cloud/c/tasks" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.cloud" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/tasks/" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Tasks Blog" href="https://blog.aspose.cloud/category/tasks/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Tasks Cloud for .NET?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Tasks Cloud SDK for .NET?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -377,6 +376,7 @@ var postResponse = TasksApi.PostTask(new PostTaskRequest
     {{< blocks/products/pf/offers-section-item link="/tasks/php/" imgSrc="/sdk/aspose_tasks-for-php.png" platform="PHP" >}}
 	
     {{< blocks/products/pf/offers-section-item link="/tasks/python/" imgSrc="/sdk/aspose_tasks-for-python.png" platform="Python" >}}
+{{< blocks/products/pf/offers-section-item link="/tasks/nodejs/" imgSrc="/sdk/aspose_tasks-for-node.png" platform="Node.js" >}}
 	
 	{{< blocks/products/pf/offers-section-item link="/tasks/go/" imgSrc="/sdk/aspose_tasks-for-go.png" platform="Go" >}}
 {{< /blocks/products/pf/offers-section >}}
