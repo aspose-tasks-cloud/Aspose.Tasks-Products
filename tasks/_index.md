@@ -29,15 +29,15 @@ Integrate Microsoft Project task management & processing capabilities into your 
 
 {{< blocks/products/pf/product-card-row title="Aspose.Tasks On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Tasks for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-net.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/tasks/net/" pfName="Aspose.Tasks for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-net.png" >}}
 C# .NET desktop library to create, process & convert Microsoft Project docs to other supported formats.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Tasks for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/tasks/java/" pfName="Aspose.Tasks for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-java.png" >}}
 Java desktop API to read, write and modify Microsoft Project docs (MPP, MPT, XAML, XML, XSLX, PDF, HTML) with ease.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Tasks for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.com/tasks/cpp/" pfName="Aspose.Tasks for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/tasks/272x272/aspose_tasks-for-cpp.png" >}}
 C++ on premise API to read, manage, manipulate, save and convert Microsoft Project format files via your desktop apps.
 {{< /blocks/products/pf/product >}}
 
@@ -47,11 +47,11 @@ C++ on premise API to read, manage, manipulate, save and convert Microsoft Proje
 
 {{< blocks/products/pf/product-card-row title="Aspose.Tasks Cross Platform Apps Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Tasks " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.app/tasks/conversion" pfName="Aspose.Tasks " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" >}}
 Online free app to convert all your Microsoft Project files to XML, XER, PDF, XLSX, XPS, TXT, HTML, JPG, PNG, BMP, SVG, TIFF.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Tasks " title="Viewer" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" >}}
+{{< blocks/products/pf/product productLink="https://products.aspose.app/tasks/viewer" pfName="Aspose.Tasks " title="Viewer" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" >}}
 Online free app to view your Microsoft Project MPP or XML files in the browser as an image representation.
 {{< /blocks/products/pf/product >}}
 
