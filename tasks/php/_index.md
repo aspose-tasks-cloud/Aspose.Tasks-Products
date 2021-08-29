@@ -363,6 +363,7 @@ print_r($result);
 {{< blocks/products/pf/offers-section-item link="/tasks/nodejs/" imgSrc="/sdk/aspose_tasks-for-node.png" platform="Node.js" >}}
 	
 	{{< blocks/products/pf/offers-section-item link="/tasks/go/" imgSrc="/sdk/aspose_tasks-for-go.png" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/tasks/java/" imgSrc="/sdk/aspose_tasks-for-java.png" platform="Java" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

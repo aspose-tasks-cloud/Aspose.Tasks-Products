@@ -1,20 +1,21 @@
 ﻿---
-title: Create Project Management Tools using cURL via REST API 
-description: Perform project creation, scheduling, resource, task & attributes management in cloud using cURL commands via REST API
-weight: 20
-url: /curl
+title: Cloud Java SDK to Read & Convert MS Project & Oracle Primavera Files 
+description: Create, modify, read, and convert MS Project and Oracle Primavera projects in your applications using Platform Independent Java Cloud SDK
+weight: 30
+url: /java
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Use cURL to Create & Manipulate Project Data in Cloud" h2="Perform project creation, scheduling, resource, task & attributes management in cloud using cURL commands via REST API." logoImageSrc="/headers/aspose_tasks-for-curl.png" pfName="Aspose.Tasks" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Java Cloud SDK to Create & Manage MS Project & Oracle Primavera files" h2="Create, modify, read, and convert MS Project and Oracle Primavera projects in your applications using Platform Independent Java Cloud SDK." logoImageSrc="/headers/aspose_tasks-for-java.png" pfName="Aspose.Tasks" subTitlepfName="Cloud Java SDK" downloadUrl="" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="Cloud for cURL" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="Cloud Java SDK" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_tasks-for-curl.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/tasks" directDownloadLink="https://github.com/aspose-tasks-cloud/" liveDemosLink="https://products.aspose.app/tasks/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_tasks-for-java.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/tasks" directDownloadLink="https://github.com/aspose-tasks-cloud/aspose-tasks-cloud-java" liveDemosLink="https://products.aspose.app/tasks/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Tasks Cloud for cURL helps you access project management file format files hosted on the cloud storage for processing and manipulation within your cloud-based applications. Currently, Aspose.Tasks Cloud for cURL supports the popular Microsoft Project (MPT, MPP, MPX) and Primavera P6 (XER, XML) file formats. You can convert your cloud project files to various file formats, such as HTML, PDF, XPS, XLSX, CSV, TXT and image formats (BMP, PNG, JPEG, TIFF, SVG).</p>
-<p>Aspose.Tasks Cloud for cURL allows you to work with project assignments, project tasks, project resources, project calendars, project calendar exceptions, project extended attributes, VBA, time-scaled data and various other properties of cloud projects.</p>
+<p>Aspose.Tasks Cloud Java SDK helps software developers to create cloud based Java apps that can easily handle project management related tasks underlying Aspose.Tasks REST APIs. It enables users to interact with their Microsoft Project and Primavera files hosted on the cloud with ease. It makes it easy to access, read and convert these files to other supported file formats without any external software.</p>
+<p>Several popular project management related file formats such as MPP, MPT, MPX, and Primavera P6 (XML, XER) are fully supported by Aspose.Tasks Cloud Java SDK. It is also possible to convert these to supported file formats such as HTML, BMP, JPEG, PNG, SVG, TIFF, TXT, CSV, XLSX, XPS, and PDF. You can easily manage files uploaded to Aspose.Tasks Cloud Storage or any other cloud storage.</p>
+<p>The Aspose.Tasks SDK has included supports for several important features related to project document creation and manipulation, such as assigning or removing tasks from a project, adding or removing or updating task to a project, inserting or removing project calendar, getting project calendar items, working with calendar exceptions, task links handling, working with outline codes and extended attributes, create or update project online, working with VBA, manage time-phased data and so on.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -51,7 +52,7 @@ url: /curl
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_tasks-for-curl.png" alt="cURL PowerPoint Cloud SDK"><header>Aspose.Tasks</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_tasks-for-java.png" alt="Java PowerPoint Cloud SDK"><header>Aspose.Tasks</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -81,7 +82,7 @@ url: /curl
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_tasks-for-curl.png" alt="cURL Cloud SDK for MS Project"><header>Aspose.Tasks</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_tasks-for-java.png" alt="Java Cloud SDK for MS Project"><header>Aspose.Tasks</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -93,7 +94,6 @@ url: /curl
 
 {{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
-
 <!--Feature-section Start-->
 <div class="container-fluid features-section bg-gray singleproduct">
  <a class="anchor" id="features" name="features">
@@ -101,7 +101,7 @@ url: /curl
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Project Management Features
+    Advanced features of Project Management SDK
    </h2>
    <p>
    </p>
@@ -109,21 +109,21 @@ url: /curl
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add assignments to project
+     Allocate Assignments to a project
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Fetch required project assignment based on its UID
+     Get required project assignment based on its UID
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-alt -o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Delete project assignment with all references to it
+     Project assignment removal with all references to it
     </p>
    </div>
    <div class="col-lg-4">
@@ -158,14 +158,14 @@ url: /curl
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Get a project document in specified format and save options
+     Get a project document in a specified format and save options
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-alt -o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Getproject document properties or specific property by name
+     Get collection of project document properties or specific property by name
     </p>
    </div>
    <div class="col-lg-4">
@@ -179,7 +179,7 @@ url: /curl
     <em class="fa fa-list-alt -o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Reschedule Task IDs, start/finish dates, calculate slacks
+     Reschedule all project Task IDs, start/finish dates, calculate slacks and other settings
     </p>
    </div>
    <div class="col-lg-4">
@@ -193,7 +193,7 @@ url: /curl
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Get time scaled data or recurring info for a specific task by its UID
+     Get time-scaled data or recurring info for a specific task by its UID
     </p>
    </div>
    <div class="col-lg-4">
@@ -207,7 +207,7 @@ url: /curl
     <em class="fa fa-link ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Change position of project task under parent task
+     Change the position of project task under parent task
     </p>
    </div>
    <div class="col-lg-4">
@@ -228,14 +228,14 @@ url: /curl
     <em class="fa fa-tasks ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Perform risk analysis using Monte Carlo simulation and create report
+     Perform risk analysis using Monte Carlo simulation and create a report
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list-alt -o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add, update, delete project task link
+     Add, modify, remove project task link
     </p>
    </div>
    <div class="col-lg-4">
@@ -254,57 +254,58 @@ url: /curl
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Get Started with Document Processing REST API
+     Get Started with Document Processing SDK
     </h2>
     <p>
-     It is easy to get started with Aspose.Tasks Cloud for cURL as there is nothing to install. Simply create an account at
+     It is easy to get started with Aspose.Tasks Cloud Java SDK as there is nothing to install. Simply create an account at
      <a href="https://dashboard.aspose.cloud/#/apps">
       Aspose for Cloud
      </a>
-     and get your application information. Once you have the App SID &amp; key, you are ready to give the Aspose.Tasks Cloud for cURL a try on any supported platform. It offers the capabilities to read Microsoft Project files from within an application, without the need of installing Microsoft Project. Aspose.Tasks Cloud for cURL provides the facility to retrieve document properties with well-structured API calls.
+     and get your application information. Once you have the App SID &amp; key, you are ready to give the Aspose.Tasks Cloud Java SDK a try on any supported platform. It offers the capabilities to read Microsoft Project files from within an application, without the need of installing Microsoft Project. The SDK also provides the facility to retrieve document properties with well-structured API calls.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Handle Project Tasks and Resource Data
+     Project Document Conversion to Other Supported Formats via Java
     </h2>
     <p>
-     Aspose.Tasks Cloud for cURL allows you to fetch project tasks data information, e.g., list of tasks mandatory to be completed within given timelines, list of tasks along with their associated assignments etc. You can also add one-time or recurring tasks to projects as well as modify a particular task based on its UID. Similarly you can retrieve WBS definition for the project and renumber WBS code of tasks which have been passed.
-    </p>
-    <p>
-     Task and resource data retrieval is done via the resource ID or name. Based on such UIDs, our project processing and management cloud cURL solution allows you to fetch time scaled data for specific assignment or resource, add or delete any project resource, modify existing resources, get all assignments of a resource, or recalculate project resource fields.
+     Aspose.Tasks Cloud Java SDK has included support for quick and reliable project documents conversion to other supported file formats with ease. The SDK allows conversion to some of the leading file formats such as PDF, XPS, XLSX, CSV, TXT, HTML, PNG, JPEG, SVG, TIFF, BMP, SpreadsheetML, and many others inside their own Java application.  You can also use specified save options to convert it to various other file formats.  The API returns stream response with the project file in the specified format.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manage Project Calendars
+     Project Calendars Handling in Java Apps
     </h2>
     <p>
-     Aspose.Tasks Cloud for cURL helps you manage project calendar information with simple REST API calls. It is possible to read the project calendar information as well as to add and retrieve calendar exceptions. It also supports adding a new calendar as well as updating or deleting an existing calendar from the hosted Project data file.
-    </p>
-    <p>
-     Furthermore, Aspose.Tasks Cloud for cURL enables you to get project calendar based on its specific UID, add exceptions to project calendar, delete project calendar and its exceptions from collection, and get the collection of work weeks of specified calendar.
+     The project calendars help users to organize and view their project tasks, their deadlines, and who they're assigned to. Aspose.Tasks Cloud Java SDK enables software developers to work with calendars inside their own cloud applications. The SDK supports several important features related to calendars such as adding a calendar to their projects, modify a project calendar, delete a calendar from a project, get calendar items, getting work weak collection of a week, and so on.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manage MS Project Files without any Installation
+     Project Tasks Handling using Java
     </h2>
     <p>
-     Aspose.Tasks Cloud for cURL is built using managed code that never needs Microsoft Office or Microsoft Project to be installed on the machine for working with MS Project files. It is a perfect Microsoft Project automation alternative in terms of supported features, security, stability, scalability, speed and price.
+     Aspose.Tasks Cloud Java SDK makes it easy for software professionals to handle all tasks related to their projects inside their own Java apps. It has provided complete support for adding, updating, and deleting tasks from the project with ease. It also facilities developers to get all or specific tasks from a project, Get a Project Task Assignments, move a task to another parent task, move a task to a sibling task, and much more.
+    </p>
+   </div>
+   <div class="col-lg-12">
+    <h2 class="h2title">
+     Create and Manage Projects Online
+    </h2>
+    <p>
+     Aspose.Tasks Cloud Java SDK gives software professionals the capability to create a new project online using Aspose.Tasks REST API inside your applications. You need provide a Token or Login and Password credentials for the online project creation.  The SDK has also provided support for several important features such as getting a list of projects online, update a project online, get a list of projects, and so on.
     </p>
    </div>
   </div>
  </div>
 </div>
 <!--Feature-section End-->
-
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/tasks" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tasks-cloud/" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-tasks-cloud/aspose-tasks-cloud-java" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/tasks/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -315,12 +316,13 @@ url: /curl
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/tasks/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Tasks Cloud for cURL?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Tasks Cloud SDK for Java?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.cloud/customers" >}}
 {{< blocks/products/pf/slr-element name="Security" href="https://company.aspose.cloud/legal/security" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
+
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Tasks" >}}
 
@@ -332,7 +334,7 @@ url: /curl
 	
     {{< blocks/products/pf/offers-section-item link="/tasks/python/" imgSrc="/sdk/aspose_tasks-for-python.png" platform="Python" >}}
 {{< blocks/products/pf/offers-section-item link="/tasks/nodejs/" imgSrc="/sdk/aspose_tasks-for-node.png" platform="Node.js" >}}
-	
+    
 	{{< blocks/products/pf/offers-section-item link="/tasks/go/" imgSrc="/sdk/aspose_tasks-for-go.png" platform="Go" >}}
 	{{< blocks/products/pf/offers-section-item link="/tasks/java/" imgSrc="/sdk/aspose_tasks-for-java.png" platform="Java" >}}
 {{< /blocks/products/pf/offers-section >}}

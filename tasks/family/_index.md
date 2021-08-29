@@ -35,6 +35,10 @@ Enable your Node.js cloud-based apps to create, modify & convert MS Project docu
 Get the power to Generate, Modify, Process or Convert to MS Project documents via REST APIs.
 {{< /blocks/products/pf/product >}}
 
+{{< blocks/products/pf/product pfName=" Aspose.Tasks" title="Cloud SDK for Java" imgSrc="/sdk/aspose_tasks-for-java.png" productLink="/tasks/java/" >}}
+Implement possibility to create or modify MS Project files in your Java-based applications.
+{{< /blocks/products/pf/product >}}
+
 {{< /blocks/products/pf/product-card-row >}}
 {{< /blocks/products/pf/main-container >}}
 

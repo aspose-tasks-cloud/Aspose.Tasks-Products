@@ -19,7 +19,7 @@ Access and process Microsoft Project documents in the cloud using cURL via REST 
 Perform Microsoft Project task management in your C# & .NET cloud-based Apps via REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product productLink="tasks/java/" pfName="Aspose.Tasks" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_tasks-for-php.png" >}}
+{{< blocks/products/pf/product productLink="/tasks/php/" pfName="Aspose.Tasks" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_tasks-for-php.png" >}}
 Integrate Microsoft Project task management & processing capabilities into your PHP cloud Apps.
 {{< /blocks/products/pf/product >}}
 
