@@ -6,11 +6,11 @@ url: /java
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Cloud SDK to Create & Manage MS Project & Oracle Primavera files" h2="Create, modify, read, and convert MS Project and Oracle Primavera projects in your applications using Platform Independent Java Cloud SDK." logoImageSrc="/headers/aspose_tasks-for-java.png" pfName="Aspose.Tasks" subTitlepfName="Cloud Java SDK" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Java Cloud SDK to Create & Manage MS Project & Oracle Primavera files" h2="Create, modify, read, and convert MS Project and Oracle Primavera projects in your applications using Platform Independent Java Cloud SDK." logoImageSrc="/headers/aspose_tasks-for-java.svg" pfName="Aspose.Tasks" subTitlepfName="Cloud Java SDK" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="Cloud Java SDK" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_tasks-for-java.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/tasks" directDownloadLink="https://github.com/aspose-tasks-cloud/aspose-tasks-cloud-java" liveDemosLink="https://products.aspose.app/tasks/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_tasks-for-java.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/tasks" directDownloadLink="https://github.com/aspose-tasks-cloud/aspose-tasks-cloud-java" liveDemosLink="https://products.aspose.app/tasks/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Tasks Cloud Java SDK helps software developers to create cloud based Java apps that can easily handle project management related tasks underlying Aspose.Tasks REST APIs. It enables users to interact with their Microsoft Project and Primavera files hosted on the cloud with ease. It makes it easy to access, read and convert these files to other supported file formats without any external software.</p>
@@ -52,7 +52,7 @@ url: /java
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_tasks-for-java.png" alt="Java PowerPoint Cloud SDK"><header>Aspose.Tasks</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_tasks-for-java.svg" alt="Java PowerPoint Cloud SDK"><header>Aspose.Tasks</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -82,7 +82,7 @@ url: /java
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_tasks-for-java.png" alt="Java Cloud SDK for MS Project"><header>Aspose.Tasks</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_tasks-for-java.svg" alt="Java Cloud SDK for MS Project"><header>Aspose.Tasks</header><footer>Cloud <small> <em>for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -326,17 +326,17 @@ url: /java
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Tasks" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/tasks/curl/" imgSrc="/sdk/aspose_tasks-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/curl/" imgSrc="/sdk/aspose_tasks-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/tasks/net/" imgSrc="/sdk/aspose_tasks-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/net/" imgSrc="/sdk/aspose_tasks-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/tasks/php/" imgSrc="/sdk/aspose_tasks-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/php/" imgSrc="/sdk/aspose_tasks-for-php.svg" platform="PHP" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/tasks/python/" imgSrc="/sdk/aspose_tasks-for-python.png" platform="Python" >}}
-{{< blocks/products/pf/offers-section-item link="/tasks/nodejs/" imgSrc="/sdk/aspose_tasks-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/python/" imgSrc="/sdk/aspose_tasks-for-python.svg" platform="Python" >}}
+{{< blocks/products/pf/offers-section-item link="/tasks/nodejs/" imgSrc="/sdk/aspose_tasks-for-node.svg" platform="Node.js" >}}
     
-	{{< blocks/products/pf/offers-section-item link="/tasks/go/" imgSrc="/sdk/aspose_tasks-for-go.png" platform="Go" >}}
-	{{< blocks/products/pf/offers-section-item link="/tasks/java/" imgSrc="/sdk/aspose_tasks-for-java.png" platform="Java" >}}
+	{{< blocks/products/pf/offers-section-item link="/tasks/go/" imgSrc="/sdk/aspose_tasks-for-go.svg" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/tasks/java/" imgSrc="/sdk/aspose_tasks-for-java.svg" platform="Java" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

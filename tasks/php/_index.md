@@ -6,11 +6,11 @@ url: /php
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="PHP Cloud SDK to manipulate MS Project & Oracle Primavera files" h2="Open, edit, and convert MS Project and Oracle Primavera projects in your applications using Platform Independent PHP Cloud SDK." logoImageSrc="/headers/aspose_tasks-for-php.png" pfName="Aspose.Tasks" subTitlepfName="Cloud PHP SDK" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="PHP Cloud SDK to manipulate MS Project & Oracle Primavera files" h2="Open, edit, and convert MS Project and Oracle Primavera projects in your applications using Platform Independent PHP Cloud SDK." logoImageSrc="/headers/aspose_tasks-for-php.svg" pfName="Aspose.Tasks" subTitlepfName="Cloud PHP SDK" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Tasks" subTitlepfName="Cloud PHP SDK" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_tasks-for-php.png"  PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/tasks" directDownloadLink="https://github.com/aspose-tasks-cloud/aspose-tasks-cloud-php" liveDemosLink="https://products.aspose.app/tasks/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_tasks-for-php.svg"  PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/tasks" directDownloadLink="https://github.com/aspose-tasks-cloud/aspose-tasks-cloud-php" liveDemosLink="https://products.aspose.app/tasks/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Tasks Cloud PHP SDK is offered under an MIT license to assist developers in building cloud-based PHP apps that allow end-users to interact with their Microsoft Project and Primavera files hosted on the cloud, process those files and convert them to other supported file formats from within your applications without installing any 3rd party software.</p>
@@ -52,7 +52,7 @@ url: /php
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_tasks-for-php.png" alt="PHP PowerPoint Cloud SDK"><header>Aspose.Tasks</header><footer>Cloud <small> <em>for </em> </small>PHP</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_tasks-for-php.svg" alt="PHP PowerPoint Cloud SDK"><header>Aspose.Tasks</header><footer>Cloud <small> <em>for </em> </small>PHP</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -82,7 +82,7 @@ url: /php
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_tasks-for-php.png" alt="PHP Cloud SDK for MS Project"><header>Aspose.Tasks</header><footer>Cloud <small> <em>for </em> </small>PHP</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_tasks-for-php.svg" alt="PHP Cloud SDK for MS Project"><header>Aspose.Tasks</header><footer>Cloud <small> <em>for </em> </small>PHP</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -353,17 +353,17 @@ print_r($result);
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Tasks" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/tasks/curl/" imgSrc="/sdk/aspose_tasks-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/curl/" imgSrc="/sdk/aspose_tasks-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/tasks/net/" imgSrc="/sdk/aspose_tasks-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/net/" imgSrc="/sdk/aspose_tasks-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/tasks/php/" imgSrc="/sdk/aspose_tasks-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/php/" imgSrc="/sdk/aspose_tasks-for-php.svg" platform="PHP" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/tasks/python/" imgSrc="/sdk/aspose_tasks-for-python.png" platform="Python" >}}
-{{< blocks/products/pf/offers-section-item link="/tasks/nodejs/" imgSrc="/sdk/aspose_tasks-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/tasks/python/" imgSrc="/sdk/aspose_tasks-for-python.svg" platform="Python" >}}
+{{< blocks/products/pf/offers-section-item link="/tasks/nodejs/" imgSrc="/sdk/aspose_tasks-for-node.svg" platform="Node.js" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/tasks/go/" imgSrc="/sdk/aspose_tasks-for-go.png" platform="Go" >}}
-	{{< blocks/products/pf/offers-section-item link="/tasks/java/" imgSrc="/sdk/aspose_tasks-for-java.png" platform="Java" >}}
+	{{< blocks/products/pf/offers-section-item link="/tasks/go/" imgSrc="/sdk/aspose_tasks-for-go.svg" platform="Go" >}}
+	{{< blocks/products/pf/offers-section-item link="/tasks/java/" imgSrc="/sdk/aspose_tasks-for-java.svg" platform="Java" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

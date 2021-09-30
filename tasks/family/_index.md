@@ -11,31 +11,31 @@ url: /family
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Tasks Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.Tasks" title="Cloud for cURL" imgSrc="/sdk/aspose_tasks-for-curl.png" productLink="/tasks/curl/" >}}
+{{< blocks/products/pf/product pfName=" Aspose.Tasks" title="Cloud for cURL" imgSrc="/sdk/aspose_tasks-for-curl.svg" productLink="/tasks/curl/" >}}
 Use cURL to access and manipulate Microsoft Project documents stored on the cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.Tasks" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_tasks-for-net.png" productLink="/tasks/net/" >}}
+{{< blocks/products/pf/product pfName=" Aspose.Tasks" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_tasks-for-net.svg" productLink="/tasks/net/" >}}
 Enhance your C#, ASP.NET or other .NET based cloud app to read, write, edit & convert MS Project docs.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.Tasks" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_tasks-for-php.png" productLink="/tasks/php/" >}}
+{{< blocks/products/pf/product pfName=" Aspose.Tasks" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_tasks-for-php.svg" productLink="/tasks/php/" >}}
 Create & manage MS Project tasks in the cloud using PHP cloud SDK via REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.Tasks" title="Cloud SDK for Python" imgSrc="/sdk/aspose_tasks-for-python.png" productLink="/tasks/python/" >}}
+{{< blocks/products/pf/product pfName=" Aspose.Tasks" title="Cloud SDK for Python" imgSrc="/sdk/aspose_tasks-for-python.svg" productLink="/tasks/python/" >}}
 Develop Python applications to create, edit & convert MS Project & Primavera docs in the cloud via REST APIs.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.Tasks" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_tasks-for-node.png" productLink="/tasks/nodejs/" >}}
+{{< blocks/products/pf/product pfName=" Aspose.Tasks" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_tasks-for-node.svg" productLink="/tasks/nodejs/" >}}
 Enable your Node.js cloud-based apps to create, modify & convert MS Project documents.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.Tasks" title="Cloud SDK for Go" imgSrc="/sdk/aspose_tasks-for-go.png" productLink="/tasks/go/" >}}
+{{< blocks/products/pf/product pfName=" Aspose.Tasks" title="Cloud SDK for Go" imgSrc="/sdk/aspose_tasks-for-go.svg" productLink="/tasks/go/" >}}
 Get the power to Generate, Modify, Process or Convert to MS Project documents via REST APIs.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName=" Aspose.Tasks" title="Cloud SDK for Java" imgSrc="/sdk/aspose_tasks-for-java.png" productLink="/tasks/java/" >}}
+{{< blocks/products/pf/product pfName=" Aspose.Tasks" title="Cloud SDK for Java" imgSrc="/sdk/aspose_tasks-for-java.svg" productLink="/tasks/java/" >}}
 Implement possibility to create or modify MS Project files in your Java-based applications.
 {{< /blocks/products/pf/product >}}
 
