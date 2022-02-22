@@ -293,7 +293,7 @@ url: /java
      Create and Manage Projects Online
     </h2>
     <p>
-     Aspose.Tasks Cloud Java SDK gives software professionals the capability to create a new project online using Aspose.Tasks REST API inside your applications. You need provide a Token or Login and Password credentials for the online project creation.  The SDK has also provided support for several important features such as getting a list of projects online, update a project online, get a list of projects, and so on.
+     Aspose.Tasks Cloud Java SDK gives software professionals the capability to create a new project online using Aspose.Tasks REST API inside your applications. You need provide a Token or Login and Password credentials for the online project creation. The SDK has also provided support for several important features such as getting a list of projects online, update a project online, get a list of projects, and so on.
     </p>
    </div>
   </div>
